@@ -1,0 +1,119 @@
+{
+    "conversations": [
+        {
+            "conversation_id": "3c091d14-fd54-4e25-b1e3-d348f8dd73fb",
+            "messages": [
+                {
+                    "name": "John Doe",
+                    "type": "customer",
+                    "message": "Hey, Jane! How's it going?"
+                },
+                {
+                    "name": "agent 1",
+                    "type": "agent",
+                    "message": "Hey John! I'm good, thanks. How about you?"
+                },
+                {
+                    "name": "John Doe",
+                    "type": "customer",
+                    "message": "Can't complain. Hey, do you happen to know what the minimum age is to open an account here?"
+                },
+                {
+                    "name": "agent 1",
+                    "type": "agent",
+                    "message": "I think it's 18 years. At least that's what I was told when I opened mine."
+                }
+            ]
+        },
+        {
+            "conversation_id": "ad5e3b21-36a2-4c0f-b0b6-63f3816e0f4e",
+            "messages": [
+                {
+                    "name": "Jane Doe",
+                    "type": "customer",
+                    "message": "Hi John! How have you been?"
+                },
+                {
+                    "name": "agent 2",
+                    "type": "agent",
+                    "message": "Hey Jane! I've been good, thank you. How about yourself?"
+                },
+                {
+                    "name": "Jane Doe",
+                    "type": "customer",
+                    "message": "Not too bad. By the way, do you know what the minimum balance is to maintain an account here?"
+                },
+                {
+                    "name": "agent 2",
+                    "type": "agent",
+                    "message": "I believe it's $10. That's what they mentioned when I signed up."
+                }
+            ]
+        },
+        {
+            "conversation_id": "2c90e715-193e-4938-8153-f23fd1be9473",
+            "messages": [
+                {
+                    "name": "Customer",
+                    "type": "customer",
+                    "message": "I wish to request chargeback"
+                },
+                {
+                    "name": "Agent",
+                    "type": "agent",
+                    "message": "May I know the date, amount and merchant name?"
+                },
+                {
+                    "name": "Customer",
+                    "type": "customer",
+                    "message": "The amount is 198.20 and date is: '10-OCT-2022' from"
+                },
+                {
+                    "name": "Agent",
+                    "type": "agent",
+                    "message": "I have found this transaction and it is not qualified for chargeback, is there other transaction I can help you with"
+                },
+                {
+                    "name": "Customer",
+                    "type": "customer",
+                    "message": "Yes, amount is amount 7849.90 from LG on December 12"
+                }
+            ]
+        },
+        {
+            "conversation_id": "7d2fb18d-9f29-4a8e-936a-7da06e5fb746",
+            "messages": [
+                {
+                    "name": "Jack Williams",
+                    "type": "customer",
+                    "message": "Hello, I want to request a chargeback."
+                },
+                {
+                    "name": "Agent 3",
+                    "type": "agent",
+                    "message": "May I know the date, amount and merchant name?"
+                },
+                {
+                    "name": "Jack Williams",
+                    "type": "customer",
+                    "message": "The amount is 198.20 and date is: \"10-OCT-2022\" from "
+                },
+                {
+                    "name": "Agent 3",
+                    "type": "agent",
+                    "message": "I have found this transaction and it is not qualified for chargeback, is there other transaction I can help you with"
+                },
+                {
+                    "name": "Jack Williams",
+                    "type": "customer",
+                    "message": "Yes, amount is amount 7849.90 from LG on December 12"
+                },
+                {
+                    "name": "Agent 3",
+                    "type": "agent",
+                    "message": "This transaction is qualified for chargeback, the reference ID is 304712, do you wish to proceed and do you agree with our terms of service?"
+                }
+            ]
+        }
+    ]
+}

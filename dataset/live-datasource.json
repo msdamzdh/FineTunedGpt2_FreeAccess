@@ -1,0 +1,110 @@
+[
+    {
+        "transaction_id": "5f7a92",
+        "amount": 6724.50,
+        "type": "Online",
+        "date": "01-JAN-2022",
+        "merchant": "Nike",
+        "2FA_authorization": false,
+        "reference_number": 813295
+    },
+    {
+        "transaction_id": "8bc123",
+        "amount": 3156.25,
+        "type": "Physical",
+        "date": "02-FEB-2022",
+        "merchant": "Adidas",
+        "2FA_authorization": true,
+        "reference_number": 462710
+    },
+    {
+        "transaction_id": "3e5baf",
+        "amount": 8901.75,
+        "type": "Online",
+        "date": "03-MAR-2022",
+        "merchant": "Amazon",
+        "2FA_authorization": false,
+        "reference_number": 139846
+    },
+    {
+        "transaction_id": "1a4e92",
+        "amount": 752.80,
+        "type": "Physical",
+        "date": "04-APR-2022",
+        "merchant": "Apple",
+        "2FA_authorization": true,
+        "reference_number": 571209
+    },
+    {
+        "transaction_id": "9bc5af",
+        "amount": 4583.30,
+        "type": "Online",
+        "date": "05-MAY-2022",
+        "merchant": "Best Buy",
+        "2FA_authorization": false,
+        "reference_number": 382914
+    },
+    {
+        "transaction_id": "6d7abc",
+        "amount": 9538.90,
+        "type": "Physical",
+        "date": "06-JUN-2022",
+        "merchant": "Walmart",
+        "2FA_authorization": true,
+        "reference_number": 905162
+    },
+    {
+        "transaction_id": "2f9c1a",
+        "amount": 2197.40,
+        "type": "Online",
+        "date": "07-JUL-2022",
+        "merchant": "Target",
+        "2FA_authorization": false,
+        "reference_number": 619483
+    },
+    {
+        "transaction_id": "5c6be2",
+        "amount": 3572.60,
+        "type": "Physical",
+        "date": "08-AUG-2022",
+        "merchant": "Google",
+        "2FA_authorization": true,
+        "reference_number": 735810
+    },
+    {
+        "transaction_id": "7a9d3b",
+        "amount": 6579.10,
+        "type": "Online",
+        "date": "09-SEP-2022",
+        "merchant": "Microsoft",
+        "2FA_authorization": false,
+        "reference_number": 581046
+    },
+    {
+        "transaction_id": "1b6e8c",
+        "amount": 198.20,
+        "type": "Physical",
+        "date": "10-OCT-2022",
+        "merchant": "Sony",
+        "2FA_authorization": true,
+        "reference_number": 247163
+    },
+    {
+        "transaction_id": "3f9a5d",
+        "amount": 107.75,
+        "type": "Online",
+        "date": "11-NOV-2022",
+        "merchant": "Samsung",
+        "2FA_authorization": false,
+        "reference_number": 961374
+    },
+    {
+        "transaction_id": "8c2d1f",
+        "amount": 7849.90,
+        "type": "Online",
+        "date": "12-DEC-2023",
+        "merchant": "LG",
+        "2FA_authorization": false,
+        "reference_number": 304712
+    }
+]
